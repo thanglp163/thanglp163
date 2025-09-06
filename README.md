@@ -4,15 +4,6 @@
 - 🎓 I graduated at **FPT University Quy Nhơn AI Campus.**
 
 - 🌱 I’m currently learning **Fullstack NodeJS.**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <div align="center">
-  <a href="https://www.facebook.com/thanglp163" target="_blank">
-    <img src="img/facebook.gif" width="100">
-  </a>
-</div>
-</p>
 <br/>
 <h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
 
@@ -22,6 +13,13 @@
 
 <br/>
 <h1> <img src="img/connect.gif" width="40" height="40"/> Connect with me </h1>
+
+<br/>
+<div align="center">
+  <a href="https://www.facebook.com/thanglp163" target="_blank">
+    <img src="img/facebook.gif" width="100">
+  </a>
+</div>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
