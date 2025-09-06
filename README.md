@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Fullstack NodeJS.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <div align="center">
   <a href="https://www.facebook.com/thanglp163" target="_blank">
     <img src="img/facebook.gif" width="100">
@@ -17,7 +17,7 @@
 <h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
 
 <div align=center>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thanglp163/thanglp163/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
