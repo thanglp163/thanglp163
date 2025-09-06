@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack NodeJS.**
 <br/>
-<h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
+<h3 align="left">My Contributions:</h3>
 
 <div align=center>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
